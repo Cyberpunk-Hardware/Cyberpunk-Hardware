@@ -6,7 +6,7 @@
 
 
 Cyberpunk Hardware is supposed to be what we have here in this living document. 
-If not then we need to talk about changing this
+If its not then contributers need to talk and get it changed.
 
 
 
