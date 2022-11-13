@@ -5,7 +5,7 @@
 - 📫 Reach out on telegrame or on sphinxchat to get deeper. All adminstrative tasks should be comunicated through Sphinxchat or github...
 
 
-Cyberpunk Hardware is evolving and this is a living document nurtured by our contributers.
+Cyberpunk Hardware is evolving and this is a living document amoung others created, reviewed and updated by our contributers.
 
 
 
