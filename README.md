@@ -17,7 +17,7 @@ Welcome to the home of Cyberpunk Hardware. We are just getting started and this 
 - 🌱 Currently we are running nodes, creating fun websites, chating and showing off hacky bitcoin tech.
 - 💞️ We are looking to share and collaborate with bitcoin and lightning node builds, home servers, mesh networks, surveilance free technology, phones and communication, home miners.
 
-## Tell your friends
+## You can jump right in, tell your friends 
 - 📫 Reach out here, on telegrame, on nostr 📣 or on sphinxchat to get deeper. (All adminstrative tasks should currently be comunicated through Sphinxchat, github or gitbook.)
 
 ## How we work?
