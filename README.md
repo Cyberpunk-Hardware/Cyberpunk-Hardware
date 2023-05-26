@@ -1,17 +1,12 @@
 Welcome to the home of Cyberpunk Hardware. We are just getting started and this is a living document created, reviewed, fixed and updated by our contributers (thats you).
 
-╔═╗╦ ╦╔╗ ╔═╗╦═╗╔═╗╦ ╦╔╗╔╦╔═
+>╔═╗╦ ╦╔╗ ╔═╗╦═╗╔═╗╦ ╦╔╗╔╦╔═
+>║  ╚╦╝╠╩╗║╣ ╠╦╝╠═╝║ ║║║║╠╩╗
+>╚═╝ ╩ ╚═╝╚═╝╩╚═╩  ╚═╝╝╚╝╩ ╩
 
-║  ╚╦╝╠╩╗║╣ ╠╦╝╠═╝║ ║║║║╠╩╗
-
-╚═╝ ╩ ╚═╝╚═╝╩╚═╩  ╚═╝╝╚╝╩ ╩
-
-
-╦ ╦╔═╗╦═╗╔╦╗╦ ╦╔═╗╦═╗╔═╗
-
-╠═╣╠═╣╠╦╝ ║║║║║╠═╣╠╦╝║╣ 
-
-╩ ╩╩ ╩╩╚══╩╝╚╩╝╩ ╩╩╚═╚═╝
+>╦ ╦╔═╗╦═╗╔╦╗╦ ╦╔═╗╦═╗╔═╗
+>╠═╣╠═╣╠╦╝ ║║║║║╠═╣╠╦╝║╣ 
+>╩ ╩╩ ╩╩╚══╩╝╚╩╝╩ ╩╩╚═╚═╝
 
 
 
