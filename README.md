@@ -20,7 +20,7 @@ Welcome to the home of Cyberpunk Hardware. We are just getting started and this 
 ## You can jump right in, tell your friends 
 - 📫 Reach out here, on telegrame, on nostr 📣 or on sphinxchat to get deeper. (All adminstrative tasks should currently be comunicated through Sphinxchat, github or gitbook.)
 
-## How we work?
+## How it works?
 - 💾 Code projects start here in github, also we manage general operating tasks here. 
 - 📖 Documentation projects specs instructions for DIY etc are put in the team library at gitbook cyberpunk-hardware.gitbook.io 
 - 🚚 Once comercialisable we can move things onto nostr stores or the websites cyberpunkhardware.co if we are all happy. 
