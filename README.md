@@ -5,7 +5,7 @@
 ╠═╣╠═╣╠╦╝  .║ ║║║║╠═╣╠╦╝║╣<br>
 ╩ ..╩╩. ╩╩╚══╩╝╚╩╝.╩ ╩ ╩╚═╚═╝<br>
 <!--->
-![CYBERPUNK HARDWARE](https://github.com/Cyberpunk-Hardware/Cyberpunk-Hardware/edit/main/CP-logo2.jpg?raw=true
+![CYBERPUNK HARDWARE](https://github.com/Cyberpunk-Hardware/Cyberpunk-Hardware/edit/main/CP-logo2.jpg?raw=true)
 <!--->
 What?
 - 👋 @Cyberpunk-Hardware is anonymously founded, decentralised and self-organising.
