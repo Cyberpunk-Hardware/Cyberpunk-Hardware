@@ -1,22 +1,22 @@
-╔═╗╦ ╦╔╗ ╔═╗╦═╗╔═╗╦ ╦╔╗╔╦╔═<br>
-║  ╚╦╝╠╩╗║╣ ╠╦╝╠═╝║ ║║║║╠╩╗<br>
-╚═╝ ╩ ╚═╝╚═╝╩╚═╩  ╚═╝╝╚╝╩ ╩<br>
-╦  ╦╔═╗╦═╗╔╦╗╦ ╦╔═╗╦═╗╔═╗<br>
-╠═╣╠═╣╠╦╝ ║║║║║╠═╣╠╦╝║╣<br>
-╩ ╩╩ ╩╩╚══╩╝╚╩╝╩ ╩╩╚═╚═╝<br>
+╔═╗╦ .╦ ╔╗ ╔═╗╦═╗╔═╗╦ ╦╔╗╔ ╦╔═<br>
+║ . . ╚╦╝╠╩╗║╣. ╠╦╝╠═╝║ ║║║║╠╩╗<br>
+╚═╝ . ╩ ╚═╝╚═╝╩ ╚═╩ .. ╚═╝╝╚╝╩. ╩<br>
+╦ . ╦╔═╗╦═╗. ╔╦╗╦ ╦╔═╗╦═╗╔═╗<br>
+╠═╣╠═╣╠╦╝  .║ ║║║║╠═╣╠╦╝║╣<br>
+╩ ..╩╩. ╩╩╚══╩╝╚╩╝.╩ ╩ ╩╚═╚═╝<br>
 <!---
 ![CYBERPUNK HARDWARE](Cyberpunk-Hardware/CP-logo 2.jpg)
 --->
 
 ## What?
 - 👋 @Cyberpunk-Hardware is anonymously founded, decentralised and self-organising.
-- We are just getting started and this is a living document created, reviewed, fixed and updated by our contributors (that's you).
+- 🌱 We are just getting started and this is a living document created, reviewed, fixed and updated by our contributors (that's you).
 
-- The group is focused on freedom tech. We are bitcoin-friendly, fiat free and not bound by jurisdiction. We want to create an open market where you can buy and sell equipment, build trust and get good support from other enthusiastic humans. 
+- 🎢 The group is focused on freedom tech. We are bitcoin-friendly, fiat free and not bound by jurisdiction. We want to create an open market where you can buy and sell equipment, build trust and get good support from other enthusiastic humans. 
 
 ## Why?
 - 👀 We are interested in being prepared and surviving without being consumed by the machine and recognise that we need our own tech to defend ourselves.
-- 🌱 Currently we are running nodes, creating fun websites, running meetings, chatting and showing off hacky bitcoin tech.
+- 👾 Currently, we are running nodes, creating fun websites, running meetings online and IRL, chatting and showing off hacky bitcoin tech.
 - 💞️ We want to share and collaborate with people and organisations who share our thinking. We like bitcoin lightning node builds, home servers, home miners, mesh networks, surveillance-free technology, phones and communication.
 
 ## When? Right now you can jump right in
