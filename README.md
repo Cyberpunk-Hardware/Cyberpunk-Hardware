@@ -1,20 +1,22 @@
-Welcome to the home of Cyberpunk Hardware. We are just getting started and this is a living document created, reviewed, fixed and updated by our contributers (that's you).
-<!---
 ╔═╗╦ ╦╔╗ ╔═╗╦═╗╔═╗╦ ╦╔╗╔╦╔═<br>
 ║  ╚╦╝╠╩╗║╣ ╠╦╝╠═╝║ ║║║║╠╩╗<br>
 ╚═╝ ╩ ╚═╝╚═╝╩╚═╩  ╚═╝╝╚╝╩ ╩<br>
-╦ ╦╔═╗╦═╗╔╦╗╦ ╦╔═╗╦═╗╔═╗<br>
+╦  ╦╔═╗╦═╗╔╦╗╦ ╦╔═╗╦═╗╔═╗<br>
 ╠═╣╠═╣╠╦╝ ║║║║║╠═╣╠╦╝║╣<br>
 ╩ ╩╩ ╩╩╚══╩╝╚╩╝╩ ╩╩╚═╚═╝<br>
+<!---
 ![CYBERPUNK HARDWARE](Cyberpunk-Hardware/CP-logo 2.jpg)
 --->
 
 ## What?
-- 👋 @Cyberpunk-Hardware is mostly decentralised and self organising. It has a soul (strangely) and is looking to provide computers and freedom tech related hardware around the world. We are bitcoin friendly, fiat free and hopefully people friendly also. We want to create an open market where you can buy and sell equipment with trust and get good support from other humans. 
+- 👋 @Cyberpunk-Hardware is anonymously founded, decentralised and self-organising.
+- We are just getting started and this is a living document created, reviewed, fixed and updated by our contributors (that's you).
+
+- The group is focused on freedom tech. We are bitcoin-friendly, fiat free and not bound by jurisdiction. We want to create an open market where you can buy and sell equipment, build trust and get good support from other enthusiastic humans. 
 
 ## Why?
-- 👀 Interested in surviving without being consumed by the machine, but recognise that we need our own tech to defend ourselves.
-- 🌱 Currently we are running nodes, creating fun websites, chating and showing off hacky bitcoin tech.
+- 👀 We are interested in being prepared and surviving without being consumed by the machine and recognise that we need our own tech to defend ourselves.
+- 🌱 Currently we are running nodes, creating fun websites, running meetings, chatting and showing off hacky bitcoin tech.
 - 💞️ We are looking to share and collaborate with bitcoin and lightning node builds, home servers, mesh networks, surveilance free technology, phones and communication, home miners.
 
 ## You can jump right in, tell your friends 
