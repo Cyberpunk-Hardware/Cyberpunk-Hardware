@@ -4,11 +4,10 @@
 ╦ . ╦╔═╗╦═╗. ╔╦╗╦ ╦╔═╗╦═╗╔═╗<br>
 ╠═╣╠═╣╠╦╝  .║ ║║║║╠═╣╠╦╝║╣<br>
 ╩ ..╩╩. ╩╩╚══╩╝╚╩╝.╩ ╩ ╩╚═╚═╝<br>
-<!---
-![CYBERPUNK HARDWARE](Cyberpunk-Hardware/CP-logo 2.jpg)
---->
-
-## What?
+<!--->
+![CYBERPUNK HARDWARE](https://github.com/Cyberpunk-Hardware/Cyberpunk-Hardware/edit/main/CP-logo2.jpg?raw=true
+<!--->
+What?
 - 👋 @Cyberpunk-Hardware is anonymously founded, decentralised and self-organising.
 - 🌱 We are just getting started and this is a living document created, reviewed, fixed and updated by our contributors (that's you).
 
