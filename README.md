@@ -5,10 +5,12 @@
 ╦ . ╦╔═╗╦═╗. ╔╦╗╦ ╦╔═╗╦═╗╔═╗<br>
 ╠═╣╠═╣╠╦╝  .║ ║║║║╠═╣╠╦╝║╣<br>
 ╩ ..╩╩. ╩╩╚══╩╝╚╩╝.╩ ╩ ╩╚═╚═╝<br>
---->
-![CYBERPUNK HARDWARE](CP-logo+8+RC.png)
 
-What?
+![CYBERPUNK HARDWARE](CP-logo+8+RC.png)
+--->
+<img src="CP-logo+8+RC.png" width="200px" />
+
+## What?
 - 👋 @Cyberpunk-Hardware is anonymously founded, decentralised and self-organising.
 - 🌱 We are just getting started and this is a living document created, reviewed, fixed and updated by our contributors (that's you).
 
