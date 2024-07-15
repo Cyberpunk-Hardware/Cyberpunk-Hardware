@@ -17,15 +17,15 @@
 ## Why?
 - 👀 We are interested in being prepared and surviving without being consumed by the machine and recognise that we need our own tech to defend ourselves.
 - 🌱 Currently we are running nodes, creating fun websites, running meetings, chatting and showing off hacky bitcoin tech.
-- 💞️ We are looking to share and collaborate with bitcoin and lightning node builds, home servers, mesh networks, surveilance free technology, phones and communication, home miners.
+- 💞️ We want to share and collaborate with people and organisations who share our thinking. We like bitcoin lightning node builds, home servers, home miners, mesh networks, surveillance-free technology, phones and communication.
 
-## You can jump right in, tell your friends 
-- 📫 Reach out here, on telegrame, on nostr 📣 or on sphinxchat to get deeper. (All adminstrative tasks should currently be comunicated through Sphinxchat, github or gitbook.)
+## When? Right now you can jump right in
+- 📫 Reach out here, on telegram discord or particularly on nostr 📣 our Gitea and Nextcloud to get deeper currently we also run weekly Hivechat.com meetups. 
 
 ## How it works?
 - 💾 Code projects start here in github, also we manage general operating tasks here. 
-- 📖 Documentation projects specs instructions for DIY etc are put in the team library at gitbook cyberpunk-hardware.gitbook.io 
-- 🚚 Once comercialisable we can move things onto nostr stores or the websites cyberpunkhardware.co if we are all happy. 
+- 📖 Documentation projects specs instructions etc are put in the LearnWiki repo and relevant Wikis. 
+- 🚚 Once ready to go we can move things onto nostr stores or the websites cyberpunkhardware.co and others in the webring if we are all reasonably happy. 
 
 
 <!---
